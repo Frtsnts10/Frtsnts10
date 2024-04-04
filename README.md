@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/frtsnts10/">
-    <img src="https://img.shields.io/badge/follow-%40EtishaGarg%206k+-1DA1F2?label=LinkedIn&logo=linkedin&style=for-the-badge&color=blue" alt="Filbert S's LinkedIn"/>
+    <img src="https://img.shields.io/badge/follow-%40Filbert%206k+-1DA1F2?label=LinkedIn&logo=linkedin&style=for-the-badge&color=blue" alt="Filbert S's LinkedIn"/>
   </a>
 </p>
 
