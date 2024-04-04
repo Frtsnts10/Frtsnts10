@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi, I'm Etisha Garg</h1>
+<h1 align="center">Hi, I'm Filbert S👋</h1>
 <h3 align="center">A Web and Mobile developer, IT Support enthusiast and Business Owner from Indonesia.</h3>
 
 <p align="center">
