@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Filbert S👋</h1>
-<h3 align="center">A Web and Mobile developer, IT Support enthusiast and Business Owner from Indonesia.</h3>
+<h3 align="center">A Web and Mobile developer, IT Support enthusiast and Business Executive from Indonesia.</h3>
 <p align="center">Currently applying for full time job.</p>
 
 <br></br>
