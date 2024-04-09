@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Admin Dashboard using NextJS.**
 
-- 👨‍💻 All of my projects are available at [https://filbert-portfolio-react-js.vercel.app](https://filbert-portfolio-react-js.vercel.app)
+- 👨‍💻 All of my projects are available at [https://github.com/Frtsnts10](https://github.com/Frtsnts10)
 
 - 📫 How to reach me **Filbert10.work@gmail.com**
 
