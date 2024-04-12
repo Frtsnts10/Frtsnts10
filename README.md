@@ -2,7 +2,7 @@
 <h3 align="center"> Graduated from Tarumanagara University majoring in Information Technology. Passionate in Front End Development and Hardware Support.</h3>
 <p>Starting my IT journey at Tarumanagara University with a major in Information Technology, I've become a passionate Front-End Developer with a background in Hardware Support. As a Web and Mobile Developer with a business mindset, I combine my development skills with a love for IT support and a focus on clear communication and teamwork. My 6+ months of experience include leading the development of a new e-commerce platform that resulted in a 15% conversion rate increase.  I thrive in both independent and collaborative environments, driven by a desire to tackle complex challenges and contribute to meaningful projects. Eager to utilize my diverse skillset (HTML/CSS, JavaScript stack - Next.js, React, Java, Flutter, SQL, and AWS) and contribute to the success of a team. Currently freelancing, I'm actively seeking a full-time Frontend Developer position.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frtsnts10&label=Profile%20views&color=0e75b6&style=flat" alt="frtsnts10" /> </p>
+
 
 - 🔭 I’m currently working on **Admin Dashboard using NextJS.**
 
@@ -31,8 +31,10 @@
 
 
 <h2>Stats :</h2>
-<p align="center"><img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=frtsnts10&layout=compact" /></p>
+<p align="center"></p>
 <p>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=frtsnts10&layout=compact&card_width=200" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=frtsnts10&show_icons=true&locale=en&layout=compact&card_width=400" alt="frtsnts10" />
-  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=frtsnts10&card_width=500" alt="frtsnts10" />
+  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=frtsnts10&card_width=510" alt="frtsnts10" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=frtsnts10&show_icons=true&theme=tokyonight&card_width=470" />
 </p>
