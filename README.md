@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[Admin Dashboard](https://github.com/Frtsnts10/Synapse-Admin_Dashboard-NextJS) using [NextJS](https://nextjs.org/).**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Frtsnts10](https://github.com/Frtsnts10)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Frtsnts10)
 
 - 📫 Reach me on **Filbert10.work@gmail.com**
 
