@@ -22,10 +22,10 @@ A collection of [projects](https://github.com/Frtsnts10) showcasing my front-end
 Graduated with a degree in Information Technology, I specialize in crafting seamless user experiences while bridging technical and creative solutions. I thrive on solving challenges, learning new technologies, and contributing to collaborative environments.
 
 💬 Let’s collaborate!
-If you're looking for a dedicated developer for full-time, part-time, or freelance work, feel free to [connect](https://linkedin.com/in/frtsnts10).
+If you're looking for a dedicated developer for full-time, part-time, or freelance work, feel free to [connect](https://linkedin.com/in/frtsnts10).<br/> 
 Don't forget to follow also my [instagram](https://instagram.com/filbertsnt)
 
-📫 Reach me: **Filbert10.work@gmail.com**
+📫 Reach me: **Filbert10.work@gmail.com** <br/> 
 🔗 Portfolio: [Filbert's Portfolio](https://filberts-portfolio.vercel.app/)
 
 <h2 >Languages and Tools:</h2>
