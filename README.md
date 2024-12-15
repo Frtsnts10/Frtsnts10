@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm **Filbert** !</h1>
+<h1 align="center">Hi 👋, I'm Filbert !</h1>
 <h3 align="center">Passionate Front-End Developer | Part-Time Software Engineer | Freelancer</h3>
 
 💻 Technologies I use:
