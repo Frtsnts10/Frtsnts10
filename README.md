@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filbert !</h1>
-<h3 align="center">Passionate Front-End Developer | Part-Time Software Engineer | Freelancer</h3>
+<h3 align="center">Passionate Front-End Developer | Part-Time Software Engineer | IT Support | Freelancer</h3>
 
 💻 Technologies I use:
 - Front-End: HTML/CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js
