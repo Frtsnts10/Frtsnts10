@@ -1,22 +1,32 @@
-<h1 align="center">Hi 👋, I'm Filbert !</h1>
-<h3 align="center"> Graduated from Tarumanagara University majoring in Information Technology. Passionate in Front End Development and Hardware Support.</h3>
-<p>Starting my IT journey at Tarumanagara University with a major in Information Technology, I've become a passionate Front-End Developer with a background in Hardware Support. As a Web and Mobile Developer with a business mindset, I combine my development skills with a love for IT support and a focus on clear communication and teamwork. With 6+ months of experience crafting user-friendly web interfaces using HTML, CSS, JavaScript, and React, I'm an enthusiastic Front-End Developer eager to contribute to a collaborative and innovative team. Leveraging my technical skills and a meticulous approach to problem-solving, I ensure efficient task management and on-time delivery. Beyond technical skills, I bring a team-oriented spirit and strong interpersonal skills, aiming to create a positive and productive work environment. Currently freelancing, I'm actively seeking a full-time Frontend Developer position.</p>
+<h1 align="center">Hi 👋, I'm **Filbert** !</h1>
+<h3 align="center">Passionate Front-End Developer | Part-Time Software Engineer | Freelancer</h3>
 
+💻 Technologies I use:
+- Front-End: HTML/CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js
+- Back-End & Databases: Node.js, Firebase, Supabase
+- Design Tools: Figma, Canva
 
+🚀 What I’m currently up to:
+- Working part-time as a **Software Engineer**, contributing to projects that challenge my problem-solving and development skills.
+- Building an **[Admin Dashboard](https://github.com/Frtsnts10/Synapse-Admin_Dashboard-NextJS) using [NextJS](https://nextjs.org/).** to further enhance my expertise in creating dynamic, scalable web applications.
+- Collaborating on freelance projects to deliver intuitive and user-friendly applications.
 
-- 🔭 I’m currently working on **[Admin Dashboard](https://github.com/Frtsnts10/Synapse-Admin_Dashboard-NextJS) using [NextJS](https://nextjs.org/).**
+🎯 Actively looking for:
+- A full-time Front-End Developer or Software Engineer position where I can contribute my technical skills, creativity, and teamwork to impactful projects.
+- Exciting freelance opportunities to collaborate on innovative web and mobile applications.
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Frtsnts10)
+📂 What you’ll find in my repositories:
+A collection of [projects](https://github.com/Frtsnts10) showcasing my front-end expertise, full-stack apps, and creative solutions that combine functionality with clean design.
 
-- 📫 Reach me on **Filbert10.work@gmail.com**
+🌟 About me:
+Graduated with a degree in Information Technology, I specialize in crafting seamless user experiences while bridging technical and creative solutions. I thrive on solving challenges, learning new technologies, and contributing to collaborative environments.
 
-- 📄 Know about my experiences [Filbert's Portfolio](https://filberts-portfolio.vercel.app/)
+💬 Let’s collaborate!
+If you're looking for a dedicated developer for full-time, part-time, or freelance work, feel free to [connect](https://linkedin.com/in/frtsnts10).
+Don't forget to follow also my [instagram](https://instagram.com/filbertsnt)
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/frtsnts10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frtsnts10" height="30" width="40" /></a>
-<a href="https://instagram.com/filbertsnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="filbertsnt" height="30" width="40" /></a>
-</p>
+📫 Reach me: **Filbert10.work@gmail.com**
+🔗 Portfolio: [Filbert's Portfolio](https://filberts-portfolio.vercel.app/)
 
 <h2 >Languages and Tools:</h2>
 
